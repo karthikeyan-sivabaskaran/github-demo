@@ -2,3 +2,5 @@ Test Git Quick Start Demo
 fix line
 
 new line 1 in dev
+
+merge test
